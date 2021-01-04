@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# 说明
+
+代码开发的时候写在dev分支,等代码编写完毕会合并在master中
